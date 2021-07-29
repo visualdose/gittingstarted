@@ -5,4 +5,7 @@ welcome to our github
 
 hi
 
-current status: :sleeping:
+current status: 
+[ ] :sleeping:
+[ ] :confused:
+[ ] :sweat_smile:
