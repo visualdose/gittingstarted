@@ -1,5 +1,5 @@
 # gittingstarted
 
-hi
+hi 👋
 
 hi
