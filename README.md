@@ -1,6 +1,6 @@
 # gittingstarted
 
-hi 👋
+🐴👯💫 hi 👋💖✨
 
 hi
 
