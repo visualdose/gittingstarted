@@ -6,6 +6,6 @@ welcome to our github
 hi
 
 current status: 
-[ ] :sleeping:
-[ ] :confused:
-[ ] :sweat_smile:
+- [ ] :sleeping:
+- [x] :confused:
+- [ ] :sweat_smile:
